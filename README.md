@@ -1,6 +1,12 @@
 # rnd-surajan-go
 A repo for learning Golang Fundamentals.
 
+---
+
+### Also have a look at my [Notion](https://www.notion.so/Go-Lang-2806da680b1e4c1c865069cba372ef18?pvs=4) for even more elaborate notes 📝.
+
+---
+
 ## How to run it 🤔?
 - Make sure you have [Go](https://go.dev/doc/install) installed and [set up](https://go.dev/doc/tutorial/getting-started) on your local machine.
 - Run the command `go mod tidy` for installing external packages, if I have used any or use them in the future.
