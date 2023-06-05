@@ -12,6 +12,7 @@ A repo for learning Golang Fundamentals.
 - Run the command `go mod tidy` for installing external packages, if I have used any or use them in the future.
 - All the lessons are categorized as packages inside a respective module (folder 📁). 
 - View the `main.go` file for import instructions on how to view each lesson by importing them as packages.
+- Run the command `go run .` from the root directory.
 
 **_💡 Note: I have already provided an example on how to import each lesson on the `main.go` file._**
 
